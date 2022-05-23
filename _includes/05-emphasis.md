@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*CSS & HTML skills*
+_React skills_
+
+_Javascript & **es6** skills_
+
+**Learning Python**
+__Improving Linux skills__
+
+
